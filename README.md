@@ -83,4 +83,7 @@ This project is unlicensed. Use it at your own risk.
 
 ### Author
 ## Created by Crazyscholar.# Faucet_0G
+<<<<<<< HEAD
 # Faucet_0G
+=======
+>>>>>>> f467d10e92d33c93abfefe3a81c91298335c6c1f
